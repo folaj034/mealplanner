@@ -8,7 +8,7 @@ The meal plan Calendar  allows users to view a specific meal plan in the desktop
 3.	Click on the ‘XXX’ mealplan 
 4.	Meal plan name is displayed in tabular form like: 
 
- ![./calendar1.png] 
+ !(./calendar1.png) 
  
 *Screenshot: Calendar*
 
@@ -17,6 +17,6 @@ The meal plan Calendar  allows users to view a specific meal plan in the desktop
 7.	Click on the form on the right to insert the meal in the desired meal category. Repeat until you fill up the table. 
  
 
- ![calendar](https://snipboard.io/v0FJid.jpg) 
+ !(./calendar2.png) 
  
 *Screenshot: Calendar*
